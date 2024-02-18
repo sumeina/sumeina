@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumina Khadka</h1>
 <h3 align="center">A passionate Software QA</h3>
 
-- 🌱 <p> I am working as QA, I’m currently learning **Automation Framework**
+- 🌱 I am working as QA, and learning on different  **QA Automation Framework**
 
 - 💬 Ask me about **QA, Software-Testing**
 

@@ -1,14 +1,17 @@
-<marquee> <h1 align="center">  Hi 👋, I'm Sumina Khadka. </marquee> </h1>
+<h1 align="center">  Hi 👋, I'm Sumina Khadka.</h1>
 <h3 align="center">A passionate Software QA</h3>
 
 - 🎓 CSIT Graduate
 - 🌱 I am working as QA, and learning on different  **QA Automation Framework**
 - 💬 Ask me about **QA, Software-Testing**
-- 📫 How to reach me **suminakdk057@gmail.com**
+- 📫 How to reach me **suminakdk057@gmail.com**,
   
-<h3 align="left">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeina&show_icons=true&locale=en&layout=compact" alt="sumeina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeina&" alt="sumeina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeina&show_icons=true&locale=en" alt="sumeina" /></p>
+<h3 align="left">Connect with me: 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumina-khadka-8881ab191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumina-khadka-8881ab191/" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumina-khadka-8881ab191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumina-khadka-8881ab191/" height="20" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumina Khadka</h1>
+<marquee> <h1 align="center">  Hi 👋, I'm Sumina Khadka. </marquee> </h1>
 <h3 align="center">A passionate Software QA</h3>
 
 - 🎓 CSIT Graduate
@@ -6,8 +6,6 @@
 - 💬 Ask me about **QA, Software-Testing**
 - 📫 How to reach me **suminakdk057@gmail.com**
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeina" alt="sumeina" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sumina-khadka-8881ab191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumina-khadka-8881ab191/" height="20" width="20" /></a>

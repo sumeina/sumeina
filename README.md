@@ -20,7 +20,4 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/>, Puppeter <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="20" height="20"/>, Jmeter, BrowserStack
 - Figma<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumeina&show_icons=true&locale=en" alt="sumeina" /></p>
-
-
 

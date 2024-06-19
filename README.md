@@ -6,8 +6,7 @@
 - 💬 Ask me about **QA, Software-Testing**
 - 📫 How to reach me **suminakdk057@gmail.com**,
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumeina&show_icons=true&locale=en&layout=compact" alt="sumeina" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumeina&" alt="sumeina" /></p>
+
 <h3 align="left">Connect with me: 
 <p align="left">
 <a href="https://www.linkedin.com/in/sumina-khadka/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumina-khadka-8881ab191/" height="20" width="40" /></a>
